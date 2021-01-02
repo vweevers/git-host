@@ -1,6 +1,6 @@
 {
   "name": "find-githost",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Get repository info from a directory, package.json, url, npm shorthand or git remote",
   "license": "MIT",
   "author": "Vincent Weevers",
