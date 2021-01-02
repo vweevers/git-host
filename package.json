@@ -1,0 +1,47 @@
+{
+  "name": "find-githost",
+  "version": "0.0.0",
+  "description": "Get repository info from a directory, package.json, url, npm shorthand or git remote",
+  "license": "MIT",
+  "author": "Vincent Weevers",
+  "scripts": {
+    "test": "standard && hallmark && depcheck && nyc node test.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "find-file-up": "^2.0.1",
+    "find-gitdir": "^1.0.0",
+    "hosted-git-info": "^3.0.7",
+    "is-git-branch-name-valid": "^1.0.1",
+    "is-git-ref-name-valid": "^1.0.0",
+    "remote-origin-url": "^2.0.0"
+  },
+  "devDependencies": {
+    "depcheck": "^1.3.1",
+    "hallmark": "^3.1.0",
+    "nyc": "^15.1.0",
+    "standard": "^16.0.3",
+    "tape": "^5.0.1",
+    "tempy": "^1.0.0"
+  },
+  "repository": "vweevers/find-githost",
+  "homepage": "https://github.com/vweevers/find-githost",
+  "keywords": [
+    "bitbucket",
+    "git",
+    "github",
+    "gitlab",
+    "host",
+    "origin",
+    "package",
+    "remote",
+    "repository",
+    "slug",
+    "ssh"
+  ],
+  "engines": {
+    "node": ">=10"
+  }
+}
