@@ -13,7 +13,7 @@
   "dependencies": {
     "find-file-up": "^2.0.1",
     "find-gitdir": "^1.0.0",
-    "hosted-git-info": "^3.0.7",
+    "hosted-git-info": "^4.1.0",
     "is-git-branch-name-valid": "^1.0.1",
     "is-git-ref-name-valid": "^1.0.0",
     "remote-origin-url": "^2.0.0"
