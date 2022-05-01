@@ -24,7 +24,7 @@
     "nyc": "^15.1.0",
     "standard": "^17.0.0",
     "tape": "^5.0.1",
-    "tempy": "^1.0.0"
+    "tempy": "^3.0.0"
   },
   "repository": "vweevers/find-githost",
   "homepage": "https://github.com/vweevers/find-githost",
